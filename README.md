@@ -1,2 +1,2 @@
-# Stock-Analysis
+# VBA-Challenge
 Homework 2
